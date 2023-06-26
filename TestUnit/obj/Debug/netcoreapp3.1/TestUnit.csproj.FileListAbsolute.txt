@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\MongoDb_Net\TestUnit\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\ASUS\source\repos\MongoDb_Net\TestUnit\obj\Debug\netcoreapp3.1\TestUnit.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MongoDb_Net\TestUnit\obj\Debug\netcoreapp3.1\TestUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\MongoDb_Net\TestUnit\obj\Debug\netcoreapp3.1\TestUnit.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MongoDb_Net\TestUnit\obj\Debug\netcoreapp3.1\TestUnit.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MongoDb_Net\TestUnit\obj\Debug\netcoreapp3.1\TestUnit.csproj.CoreCompileInputs.cache
